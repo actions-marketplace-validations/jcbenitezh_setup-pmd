@@ -1,4 +1,4 @@
-name: 'PMD Source Code Analyzer Action'
+name: 'PMD Node16'
 author: Felipe Echanique Torres
 description: 'This action allows to use PMD Source Code Analyzer from GitHub Actions'
 runs:
